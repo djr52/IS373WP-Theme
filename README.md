@@ -13,6 +13,14 @@ All users screen:
 Comment Approval Screen from Admin POV:
 ![image](https://user-images.githubusercontent.com/43587456/135658735-ad02a1c5-673a-4d9c-9c63-a6d361f623c8.png)
 
+Posts made in October:
+![image](https://user-images.githubusercontent.com/43587456/135658861-e76de703-70b1-4014-b7b8-8b11a1007a7c.png)
+
+Latest in Tech Page:
+![image](https://user-images.githubusercontent.com/43587456/135658924-4bd68a49-20a3-4bba-9fcf-496d63077795.png)
+
+
+
 
 
 
